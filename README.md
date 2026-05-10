@@ -3,7 +3,7 @@ Personal Expense Tracker
 Author: James Paek
 
 Project Description:
-This is a small Java console-based Personal Expense Tracker. The program allows one user to add expenses, view all expenses, calculate total spending, calculate spending by category, and save/load data using a text file. Coded in Java of course.
+This is a small Java console-based Personal Expense Tracker. The program allows one user to add expenses, view all expenses, calculate total spending, calculate spending by category, and save/load data using a text file. Built using Java with object-oriented programming principles and file handling.
 
 Files Included:
 - Main.java
