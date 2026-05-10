@@ -45,3 +45,18 @@ Notes:
 - This project is intentionally small.
 - It supports one user only.
 - It does not use a GUI, database, or online features, all local and offline.
+
+## Features
+- Add expenses
+- View all expenses
+- Calculate total spending
+- Calculate spending by category
+- Save and load expense data from file
+
+## Concepts Used
+- Object-Oriented Programming
+- Inheritance
+- Polymorphism
+- File I/O
+- ArrayLists
+- Exception Handling
